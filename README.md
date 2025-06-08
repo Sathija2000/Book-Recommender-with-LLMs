@@ -19,9 +19,8 @@ This project is a **semantic book recommendation system** that uses **natural la
 - **Pandas, NumPy** – for data manipulation
 - **Gradio** – to build the interactive UI
 - **Models Used**:
-- 
-     **facebook/bart-large-mnli** – for zero-shot classification of book categories.
-     **j-hartmann/emotion-english-distilroberta-base** – for detecting emotional tone in book descriptions.
+           **facebook/bart-large-mnli** – for zero-shot classification of book categories.
+           **j-hartmann/emotion-english-distilroberta-base** – for detecting emotional tone in book descriptions.
 
 
 ##  Dataset
