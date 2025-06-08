@@ -1,18 +1,18 @@
-# 📚 Semantic Book Recommender with LLMs
+#  Semantic Book Recommender with LLMs
 
 This project is a **semantic book recommendation system** that uses **natural language processing (NLP)** to suggest books based on a user's input description. It also allows filtering by **category** and **emotional tone** such as joy, sadness, or suspense.
 
 ##  Features
 
-- 📖 Recommend books based on a description (e.g., "a story about forgiveness").
-- 🎯 Filter recommendations by:
+-  Recommend books based on a description (e.g., "a story about forgiveness").
+-  Filter recommendations by:
   - Book category (e.g., Fiction, Romance, Horror)
   - Emotional tone (e.g., Joy, Sadness, Surprise)
-- 🤖 Uses **zero-shot classification** and **emotion detection** models.
-- 💡 Interactive UI built with **Gradio**.
+-  Uses **zero-shot classification** and **emotion detection** models.
+-  Interactive UI built with **Gradio**.
 
 
-## 🧠 Technologies Used
+##  Technologies Used
 
 - **Python**
 - **Transformers (Hugging Face)** – for emotion classification
